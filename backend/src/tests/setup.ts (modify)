@@ -1,0 +1,9 @@
+import { beforeAll, afterAll } from '@jest/globals';
+
+beforeAll(async () => {
+    // Initialize test database or mock services
+});
+
+afterAll(async () => {
+    // Clean up test database or mock services
+});
